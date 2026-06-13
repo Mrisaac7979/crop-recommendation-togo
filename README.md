@@ -9,7 +9,7 @@ Given soil properties, climate variables, and agro-climatic zone, the model reco
 
 Smallholder farmers in Togo face yield losses partly due to suboptimal crop selection relative to local soil and climate conditions. This project frames crop recommendation as a supervised multi-class classification problem, using agro-climatic features as predictors.
 
-This work is developed as a methodological prototype in preparation for graduate research on precision agriculture and climate-adaptive farming systems in West Africa (UTFPR application, 2025).
+This work is developed as a methodological prototype in preparation for graduate research on precision agriculture and climate-adaptive farming systems in West Africa.
 
 ---
 
@@ -118,7 +118,7 @@ The dataset is synthetic, generated from parametric distributions calibrated on 
 
 ## Academic Context
 
-This prototype is part of a portfolio developed for the UTFPR graduate research application (Precision Agriculture and Remote Sensing, 2025). The target architecture mirrors the feature engineering and ensemble approach described in the research proposal, specifically Phase 2 (multi-crop recommendation from soil-climate inputs).
+This prototype is part of a portfolio developed for the graduate research application (Precision Agriculture and Remote Sensing, 2025). The target architecture mirrors the feature engineering and ensemble approach described in the research proposal, specifically Phase 2 (multi-crop recommendation from soil-climate inputs).
 
 ---
 
